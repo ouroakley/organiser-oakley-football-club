@@ -1,11 +1,13 @@
 ---
-title: Oakley FC Six-A-Side Football Tournament
+title: Annual Six-A-Side Football Tournament
 eventStart: 2025-05-24
 eventEnd: 2025-05-25
 venues:
   - peter-houseman-recreation-ground
 organisers:
   - oakley-fc
+aliases:
+- /events/2025/05/oakley-fc-six-a-side-football-tournament/
 ---
 ⚽️ 🏆 🥳 Residents of Oakley. 👋 📣 It’s that time of year again!
 
