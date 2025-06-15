@@ -64,7 +64,7 @@ collections:
         name: "organisers"
         widget: "list"
         required: true
-        default: ["oakley-fc]
+        default: ["oakley-fc"]
         hint: "Enter the organisers for this event. Comma seperated, with no spaces. Replace spaces with a dash."
       - label: "Content"
         name: "body"
