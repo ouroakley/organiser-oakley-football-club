@@ -1,6 +1,6 @@
-# Oakley FC
+# Oakley Football Club
 
-This is the Oakley FC organiser for the Our Oakley website.
+This is the Oakley Football Club organiser for the Our Oakley website.
 
 Below still example content
 

@@ -1,5 +1,5 @@
 ---
-title: Oakley FC
+title: Oakley Football Club
 build:
   render: never
   list: always
