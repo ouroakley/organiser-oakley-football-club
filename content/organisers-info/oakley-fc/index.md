@@ -5,3 +5,4 @@ build:
   list: always
   publishResources: true
 ---
+More information: https://www.oakleyfootball.club/
