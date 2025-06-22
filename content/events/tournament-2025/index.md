@@ -1,7 +1,10 @@
 ---
 title: Annual Six-A-Side Football Tournament
-eventStart: 2025-05-24
-eventEnd: 2025-05-25
+eventDates:
+  - start: 2025-05-24T09:00:00+01:00
+    end: 2025-05-24T17:00:00+01:00
+  - start: 2025-05-25T09:00:00+01:00
+    end: 2025-05-25T17:00:00+01:00
 venues:
   - peter-houseman-recreation-ground
 organisers:
