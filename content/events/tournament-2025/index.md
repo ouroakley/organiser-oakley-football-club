@@ -11,6 +11,7 @@ organisers:
   - oakley-fc
 aliases:
 - /events/2025/05/oakley-fc-six-a-side-football-tournament/
+date: 2025-05-24
 ---
 ⚽️ 🏆 🥳 Residents of Oakley. 👋 📣 It’s that time of year again!
 
